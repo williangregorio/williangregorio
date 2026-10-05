@@ -14,5 +14,6 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" width="100" height="100" />
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" />
 </p>
