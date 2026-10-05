@@ -17,5 +17,5 @@
   <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" height=50" />
+  <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" width="50" height=50" />
 </p>
